@@ -4,6 +4,4 @@ this is second !
 
 and third.
 
-here is the fourth line. This is it.
-
-Right now i am in the middle of something.
+here is the fourth line. Testing on Git/gitbash screen
